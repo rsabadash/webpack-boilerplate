@@ -7,3 +7,5 @@ class User {
 console.log(User.test);
 
 console.log(classes);
+
+console.log(process.env.NODE_ENV);
